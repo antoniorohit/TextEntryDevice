@@ -1,3 +1,5 @@
+VIEW THIS FILE IN RAW!!
+
 TextEntryDevice
 ===============
 Text Entry Device created within a week for the Interactive Device Design Course at Berkeley, Fall '14
